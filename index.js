@@ -1,5 +1,4 @@
+var number = 10
 function add(){
-  var number = 858
-  number++
-  return "859";
+  number += 5
 }
